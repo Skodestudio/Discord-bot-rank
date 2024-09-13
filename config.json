@@ -1,0 +1,5 @@
+{
+  "TOKEN": "YOUR_BOT_TOKEN",
+  "allowedRoleId": "ROLE_ID_HERE",
+  "bannerImageURL": "IMAGE_URL_HERE"
+}

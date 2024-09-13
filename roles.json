@@ -1,0 +1,23 @@
+{
+  "section_1": [
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" }
+  ],
+  "section_2": [
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" }
+  ],
+  "section_3": [
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" },
+      { "roleName": "Name", "roleId": "ID" }
+  ]
+}
